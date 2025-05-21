@@ -146,8 +146,9 @@ body{
 
 @media screen and (max-width: 480px) {
     .app {
-        width: 98%;
+        width: 85%;
         margin: 10px auto;
+        margin-top: 90px;
         padding: 10px;
     }
 
